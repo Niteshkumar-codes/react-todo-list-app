@@ -31,13 +31,21 @@ A simple and responsive TODO List application built with React JS from scratch, 
 react-todo-list-app/
 
 │── public/
+
 │── src/
+
 │   ├── components/
+
 │   │   ├── TodoForm.js
+
 │   │   ├── TodoItem.js
+
 │   │   └── TodoList.js
+
 │   ├── App.js
+
 │   ├── index.js
+
 │   └── App.css
 │── package.json
 │── README.md
