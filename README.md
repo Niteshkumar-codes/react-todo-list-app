@@ -47,5 +47,7 @@ react-todo-list-app/
 │   ├── index.js
 
 │   └── App.css
+
 │── package.json
+
 │── README.md
