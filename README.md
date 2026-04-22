@@ -1,6 +1,6 @@
 # react-todo-list-app
 
-A simple and responsive TODO List application built with React JS from scratch, demonstrating core concepts like components, hooks, and state management.
+A simple, responsive, and interactive TODO List application built using React JS. This project demonstrates core React concepts such as functional components, hooks, and state management, while maintaining a clean and minimal user interface.
 
 🚀 Features
 
