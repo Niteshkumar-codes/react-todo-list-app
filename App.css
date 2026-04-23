@@ -1,0 +1,65 @@
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+form {
+  width: 1170px;
+  margin: auto;
+  display: flex;
+}
+
+form input {
+  flex-basis: 80%;
+  padding: 10px;
+  font-size: 18px;
+}
+
+form button {
+  flex-basis: 20%;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+
+.outerDiv {
+  width: 1170px;
+  margin: auto;
+}
+
+
+.outerDiv ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.outerDiv ul li {
+  color: white;
+  padding: 10px;
+  font-size: 25px;
+  margin-bottom: 20px;
+  position: relative;
+  text-align: left;
+  background-color: black;
+}
+
+
+.outerDiv ul li span {
+  right: 20px;
+  cursor: pointer;
+  position: absolute;
+}
+
+
+.completetodo {
+  text-decoration: line-through;
+  color: red;
+  background-color: yellow;
+}
