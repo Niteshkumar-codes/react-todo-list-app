@@ -34,20 +34,20 @@ react-todo-list-app/
 
 │── src/
 
-│   ├── components/
+   ├── components/
 
-│   │   ├── TodoForm.js
+   ├── TodoForm.js
 
-│   │   ├── TodoItem.js
+   ├── TodoItem.js
 
-│   │   └── TodoList.js
+   └── TodoList.js
 
-│   ├── App.js
+   ├── App.js
 
-│   ├── index.js
+   ├── index.js
 
-│   └── App.css
+  └── App.css
 
-│── package.json
+  │── package.json
 
-│── README.md
+  │── README.md
